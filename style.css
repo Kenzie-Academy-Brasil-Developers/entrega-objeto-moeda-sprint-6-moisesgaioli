@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(252, 221, 221);
+}
+
+img {
+    width: 50px;
+    margin: 10px;
+}
+
+.imagens {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 30px auto;
+    border: 1px solid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+div {
+    text-align: center;
+}
